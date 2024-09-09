@@ -1,0 +1,26 @@
+{
+  "name": "misty-dust",
+  "displayName": "Misty Dust",
+  "description": "Made with ❤  by Sayam",
+  "version": "0.0.1",
+  "publisher": "Sayam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sayampradhan/misty-dust"
+  },
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Misty Dust",
+        "uiTheme": "hc-black",
+        "path": "./themes/Misty Dust-color-theme.json"
+      }
+    ]
+  }
+}
